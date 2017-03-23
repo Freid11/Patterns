@@ -1,0 +1,6 @@
+C:\Users\pc\Desktop\Pattern program\Command\c#\PatternCommand\PatternCommand\bin\Debug\PatternCommand.exe.config
+C:\Users\pc\Desktop\Pattern program\Command\c#\PatternCommand\PatternCommand\bin\Debug\PatternCommand.exe
+C:\Users\pc\Desktop\Pattern program\Command\c#\PatternCommand\PatternCommand\bin\Debug\PatternCommand.pdb
+C:\Users\pc\Desktop\Pattern program\Command\c#\PatternCommand\PatternCommand\obj\Debug\PatternCommand.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\Pattern program\Command\c#\PatternCommand\PatternCommand\obj\Debug\PatternCommand.exe
+C:\Users\pc\Desktop\Pattern program\Command\c#\PatternCommand\PatternCommand\obj\Debug\PatternCommand.pdb
