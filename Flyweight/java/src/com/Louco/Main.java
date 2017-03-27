@@ -28,20 +28,20 @@ interface Shape{
 }
 
 class Point implements Shape{
-    int r = 5;
     public void draw(int x, int y){
         System.out.println("Точка");
     }
 }
 
 class Circle implements Shape{
-    int a =10;
+    int r = 5;
     public void draw(int x, int y){
         System.out.println("Круг");
     }
 }
 
 class Square implements Shape{
+    int a = 5;
     public void draw(int x, int y){
         System.out.println("Квадрат");
     }
